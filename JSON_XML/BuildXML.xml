@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Build>
+    <ar>
+        <number>408</number>
+        <ownerName>Krupchak</ownerName>
+        <roomsCount>2</roomsCount>
+        <square>50</square>
+    </ar>
+    <ar>
+        <number>508</number>
+        <ownerName>Litvinchuk</ownerName>
+        <roomsCount>3</roomsCount>
+        <square>65</square>
+    </ar>
+    <ar>
+        <number>509</number>
+        <ownerName>Kosovych</ownerName>
+        <roomsCount>2</roomsCount>
+        <square>50</square>
+    </ar>
+    <ar>
+        <number>33</number>
+        <ownerName>Lupashku</ownerName>
+        <roomsCount>3</roomsCount>
+        <square>100</square>
+    </ar>
+    <ar>
+        <number>407</number>
+        <ownerName>Hordiy</ownerName>
+        <roomsCount>2</roomsCount>
+        <square>55</square>
+    </ar>
+    <numberOfBuild>4a</numberOfBuild>
+    <streetName>Stasyuka</streetName>
+</Build>

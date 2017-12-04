@@ -1,0 +1,26 @@
+{
+  "streetName" : "Royal",
+  "numberOfBuild" : "12a",
+  "numberOfFlats" : 13,
+  "ar" : [ {
+    "number" : 2,
+    "roomsCount" : 2,
+    "square" : 120,
+    "ownerName" : "John"
+  }, {
+    "number" : 210,
+    "roomsCount" : 4,
+    "square" : 100,
+    "ownerName" : "Smith"
+  }, {
+    "number" : 508,
+    "roomsCount" : 3,
+    "square" : 120,
+    "ownerName" : "Colins"
+  }, {
+    "number" : 408,
+    "roomsCount" : 2,
+    "square" : 130,
+    "ownerName" : "Krupchak"
+  } ]
+}
